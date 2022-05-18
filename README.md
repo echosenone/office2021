@@ -36,4 +36,15 @@ So it might be a bug, im fixing it but for now.
 Go to the folder with the files, go to activate then to MAS, then go to Seperate Files Version, then to activators, go to online kms activation, then run
 activate.cmd
 
+# Activation P2
+So after you activated, open MS Office and accept the license agreement.
+![office](acceptagreement.png)
 
+--
+
+# Your activated (skip)
+![office](activated.png)
+
+Its finished, also go back to the activator and allow the activation auto-renewal so you dont have to renew activation.
+
+Enjoy!
