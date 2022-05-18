@@ -11,8 +11,8 @@ This installs and activates Office!
 I recommend running activation after 180 days or if says it is not valid.
 
 # Q: How do I install?
-So the original config *configuration-office* has project and visio removed. If you want those features, use the name from the configuration-office file and overwrite the file.
-Assuming you have the files, you can run the bat file.
+A: So the original config *configuration-office* has project and visio removed. If you want those features, use the name from the configuration-office file and overwrite the file.
+A: Assuming you have the files, you can run the bat file.
 
 
 Run the bat when you are ready.
