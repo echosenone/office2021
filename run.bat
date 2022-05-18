@@ -291,9 +291,7 @@ echo.
 echo.
 echo.       ______________________________________________________________
 echo.
-echo.              [1] Activate - Windows
-echo.              [2] Activate - Office
-echo.              [3] Activate - All
+echo.              [1] Activate - Office (click this)
 echo.
 if defined _tskinstalled call :_color2 %_White% "              [I] Activation Auto-Renewal   " %_Green% "[Installed]"
 if defined _oldtsk       call :_color2 %_White% "              [I] Activation Auto-Renewal   " %_Red% "[Old Installed]"
