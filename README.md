@@ -1,7 +1,7 @@
 # Office 2021 is Here!
 
 
-![office](40390-77810-Office-Logo-xl.jpg)
+![office](Microsoft_Office_365_Logo_white_text-700x425.png)
 
 # Office 2021 Pro Plus
 Office 2021 on GitHub! and yes. Its legal.
