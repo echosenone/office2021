@@ -16,3 +16,14 @@ Assuming you have the files, you can run the bat file.
 
 
 Run the bat when you are ready.
+
+---
+
+
+# Can I activate on my own?
+Yeah, for sure you can. That is why I did not make activation automatic. You may skip that and activate on your own.
+
+The KMS Servers are down, what servers can I use?
+
+Haha, I made KMS servers a while ago.
+Here it is: k1.4kash.org k2.codelazy.org k3.linux4kash.com
