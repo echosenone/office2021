@@ -10,6 +10,9 @@ This installs and activates Office!
 ## Activation
 I recommend running activation after 180 days or if says it is not valid.
 
+So after is ready for activation, first install the renewal. If you are connected to internet after 180 days it will re-activate office.
+Then, its the final part. Activate Office! 
+
 # Q: How do I install?
 A: So the original config *configuration-office* has project and visio removed. If you want those features, use the name from the configuration-office file and overwrite the file.
 A: Assuming you have the files, you can run the bat file.
@@ -47,6 +50,6 @@ So after you activated, open MS Office and accept the license agreement.
 # Your activated (skip)
 ![office](activated.png)
 
-Its finished, also go back to the activator and allow the activation auto-renewal so you dont have to renew activation.
+Its finished.
 
 Enjoy!
