@@ -10,7 +10,7 @@ This installs and activates Office!
 ## Activation
 I recommend running activation after 180 days or if says it is not valid.
 
-So after is ready for activation, first install the renewal. If you are connected to internet after 180 days it will re-activate office.
+So after its ready for activation, first install the renewal. If you are connected to internet after 180 days it will re-activate office.
 Then, its the final part. Activate Office! 
 
 # Q: How do I install?
