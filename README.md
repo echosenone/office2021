@@ -30,11 +30,13 @@ A: Here it is: k1.4kash.org k2.codelazy.org k3.linux4kash.com
 
 ---
 
-# Q: How do I activate? It keeps saying Office activation off.
-So it might be a bug, im fixing it but for now.
+# Q: ~~How do I activate? It keeps saying Office activation off.~~
+~~So it might be a bug, im fixing it but for now.~~
 
-Go to the folder with the files, go to activate then to MAS, then go to Seperate Files Version, then to activators, go to online kms activation, then run
-activate.cmd
+~~Go to the folder with the files, go to activate then to MAS, then go to Seperate Files Version, then to activators, go to online kms activation, then run
+activate.cmd~~
+
+It has been fixed.
 
 # Activation P2
 So after you activated, open MS Office and accept the license agreement.
