@@ -5,6 +5,9 @@
 ![classic](Microsoft_Office_365_Logo_black_text-700x172.png)
 # Office 2021 Pro Plus
 Download Office 2021 on GitHub, yes it's legal.
+Well why is it legal? : user pulled a issue.
+It is legal because of the XML and activation. The XML's are from Microsoft's official site. The XML's are really used for business's but because of this GitHub, its pretty easy for non Tech People. The activator uses KMS which is a great option in Windows and Office.
+
 This installs and activates Office!
 
 ## Activation
