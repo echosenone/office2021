@@ -37,8 +37,6 @@ echo It has finished, dont open yet as we are activating.
 echo Activating...
 
 
-
-
 <!-- : Begin batch script
 @setlocal DisableDelayedExpansion
 @echo off
@@ -291,8 +289,10 @@ mode con: cols=76 lines=33
 echo.
 echo.
 echo.       ______________________________________________________________
-echo.          
-echo.              [2] Activate - Office (click)
+echo.
+echo.              [1] Activate - Windows
+echo.              [2] Activate - Office
+echo.              [3] Activate - All
 echo.
 if defined _tskinstalled call :_color2 %_White% "              [I] Activation Auto-Renewal   " %_Green% "[Installed]"
 if defined _oldtsk       call :_color2 %_White% "              [I] Activation Auto-Renewal   " %_Red% "[Old Installed]"
@@ -4980,9 +4980,3 @@ exit /b
       </script>
    </job>
 </package>
-
-
-
-echo Your finished!
-
-pause >nul
